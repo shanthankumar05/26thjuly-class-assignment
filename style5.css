@@ -1,0 +1,35 @@
+*{
+    margin:2px;
+    padding:5px;
+    position: relative;
+  
+    
+  
+}
+.login-page{
+    content-visibility: center;
+    border: 2px solid black;
+    width: 35%;
+    display: flex;
+    color: black;
+    position: relative;
+    display:inline-block;
+
+}
+#btn{
+    padding: 2px;
+
+    margin: 2px;
+    color: aquamarine;
+    width: 80%;
+    text-align: center;
+  
+
+    
+}
+.message{
+    text-decoration: dashed;
+    text-align: center;
+
+}
+
